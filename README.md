@@ -8,11 +8,11 @@ An input to the model consists of an image of grass, the state in Australia the 
 In the file final_project.ipynb (from the notebooks directory), there are two labeled sections. The first section defines the model and various functions that are used, and the second section demonstrates the model functionality.
 
 
-The model functionality section contains four scripts. The first script organizes the data from the csv file into different datasets (train, validation, test). After running the first script, the second script loads in the model weights, runs the model on the entire test set, and prints out the biomass prediction values. For visualization purposes, it also displays the first four grass images from the test set alongside their state, species, height, NDVI value, and targets. 
+The model functionality section contains four code cells. The first cell organizes the data from the csv file into different datasets (train, validation, test). After running the first cell, the second cell loads in the model weights, runs the model on the entire test set, and prints out the biomass prediction values. For visualization purposes, it also displays the first four grass images from the test set alongside their state, species, height, NDVI value, and targets. 
 
-The third and fourth script in the model functionality section are used for model training and model test evaluation, respectively. 
+The third and fourth cells in the model functionality section are used for model training and model test evaluation, respectively. 
 
-For reference, each script is commented at the top with what it does.
+For reference, each code cell is commented at the top with what it does.
 
 # Video Links
 Project Demo: https://www.youtube.com/watch?v=SKkmmxSpPtw
