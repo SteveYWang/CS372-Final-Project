@@ -34,6 +34,7 @@ Based on these values, a drop-out rate of 30% is chosen.
 
 ### Validation performance was measured on SGD vs Adam optimizer for a 30% drop out rate:
 Adam best validation: 149.43
+
 SGD best validation: 969.3
 
 Based on these values, Adam optimizer is chosen.
