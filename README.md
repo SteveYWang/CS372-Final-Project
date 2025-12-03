@@ -14,6 +14,8 @@ The third and fourth cells in the model functionality section are used for model
 
 For reference, each code cell is commented at the top with what it does.
 
+To try out the model, first run all the code in the "function and class definitions" section to compile all the functions and classes used for the model. Then, in the "model functionality demo" section, run the first code cell to load in the data first; run the second cell to have the model make some predicitions on the test set and see some of the input data. To try out the model training or model test evaluation, run the third and fourth cells.
+
 # Video Links
 Project Demo: https://www.youtube.com/watch?v=SKkmmxSpPtw
 
